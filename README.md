@@ -1,7 +1,8 @@
 # Ising-oneDimensional
 Ising Model simulation with MCMC
 
-NOTE: THESE IMPLEMENTATION ARE BASED ON DA PAPER, THEREFORE THEY ARE NOT THE BASED IMPLEMENTATION OF ISING MODEL.
+
+<code style="color : red">NOTE: THESE IMPLEMENTATION ARE BASED ON DA PAPER, THEREFORE THEY ARE NOT THE BASED IMPLEMENTATION OF ISING MODEL. </code> 
 
 In this repository, there are two different implementations of Ising Model based on DA paper:
   1) Sequential Model
